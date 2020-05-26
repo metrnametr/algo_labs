@@ -5,8 +5,10 @@
 
 ### What you need for start
 
-1. Open terminal
-2. Get to folder, example: `cd ./lab_7_stack`
-3. Start program: `node ./`
+1. Install [Link to Node js](https://nodejs.org/en/download/)
+2. Open terminal
+3. Get to folder, example: `cd ./lab_7_stack`
+4. Start program: `node ./`
 
-[Link to Node js](https://nodejs.org/en/download/)
+
+## А можно 6 и 8 зачесть, просто в js массивы и так динамические, а с си сейчас возится как-то не хочется
