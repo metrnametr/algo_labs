@@ -1,6 +1,6 @@
 /// JS Arrays has own methond shift and unshift, pop and push, but i will realize custom methods
 
-const Flower = require('../flowers');
+const Flower = require('../Flower');
 
 class Deck {
     constructor(){

@@ -1,6 +1,6 @@
 /// JS Arrays has own methond push and pop, but i will realize custom methods
 
-const Flower = require('../flowers');
+const Flower = require('../Flower');
 
 class Stack {
     constructor(){
