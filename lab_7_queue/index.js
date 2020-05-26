@@ -1,4 +1,4 @@
-/// JS Arrays has own methond push and pop, but i will realize custom method
+/// JS Arrays has own methond shift and unshift, but i will realize custom method
 
 const Flower = require('../flowers');
 
