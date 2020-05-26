@@ -7,6 +7,6 @@
 
 1. Open terminal
 2. Get to folder, example: `cd ./lab_7_stack`
-3. Start program: `node ./"`
+3. Start program: `node ./`
 
 [Link to Node js](https://nodejs.org/en/download/)
